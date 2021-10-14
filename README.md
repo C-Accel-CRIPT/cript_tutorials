@@ -39,7 +39,6 @@ This repository holds a lot of helpful information for those learning CRIPT API.
 * [Conditions Keys](http://htmlpreview.github.io/?https://github.com/C-Accel-CRIPT/cript_tutorials/blob/master/key_tables/condition_keys.html)
 * Property Keys
     * [Reaction](http://htmlpreview.github.io/?https://github.com/C-Accel-CRIPT/cript_tutorials/blob/master/key_tables/property_keys_reaction.html)
-    * [Polymers](http://htmlpreview.github.io/?https://github.com/C-Accel-CRIPT/cript_tutorials/blob/master/key_tables/property_keys_polymers.html)
     * [Materials](http://htmlpreview.github.io/?https://github.com/C-Accel-CRIPT/cript_tutorials/blob/master/key_tables/property_keys_materials.html)
 * [Analytical Methods](http://htmlpreview.github.io/?https://github.com/C-Accel-CRIPT/cript_tutorials/blob/master/key_tables/method_keys.html)    
 * [Data Types](http://htmlpreview.github.io/?https://github.com/C-Accel-CRIPT/cript_tutorials/blob/master/key_tables/data_keys.html)      
