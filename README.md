@@ -18,7 +18,9 @@ This repository holds a lot of helpful information for those learning CRIPT API.
     * [Advanced searching](https://github.com/C-Accel-CRIPT/cript_tutorials/blob/master/jupyterlab_tutorials/Advanced_searching.ipynb)
 4) Add your own data
 
-(If you just like to explore the completed tutorials check out this [folder]().)
+(If you just like to explore the completed tutorials check out this [folder](https://github.com/C-Accel-CRIPT/cript_tutorials/tree/master/jupyterlab_tutorials/completed).)
+
+
 
 ---
 
