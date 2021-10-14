@@ -20,8 +20,15 @@ This repository holds a lot of helpful information for those learning CRIPT API.
 
 (If you just like to explore the completed tutorials check out this [folder](https://github.com/C-Accel-CRIPT/cript_tutorials/tree/master/jupyterlab_tutorials/completed).)
 
-<div class="alert alert-block alert-info">
-<b>Tip:</b> Use blue boxes (alert-info) for tips and notes.</div>
+<u>**Downloading Files from GitHub**</u>
+* Option 1: Download all tutorial files
+    * To do this: be on the [repository main page](https://github.com/C-Accel-CRIPT/cript_tutorials)
+      (likely the one you are already on). Click the green button labeled "Code", then click "download ZIP". You 
+      will now have the entire tutorial repository downloaded on your computer wherever your computer likes to put 
+      downloaded files.
+* Option 2: Download single files
+    * Navigate to the file you like to download in the repository, click "Raw" at the header of the file. This will 
+      send you to the webpage of the raw file, then save this page (on Windows: Ctrl+S; or right click "Save as...").
 
 ---
 
