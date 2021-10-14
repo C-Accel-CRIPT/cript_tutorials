@@ -9,7 +9,7 @@ This repository holds a lot of helpful information for those learning CRIPT API.
 ## Where to start:
 
 1) Get your computer setup with Python and JupyterNotebooks/JupyterLab
-    * [Click for instructions]()
+    * [Click for instructions](https://github.com/C-Accel-CRIPT/cript_tutorials/blob/master/Setup_Guide.md)
 2) Do the main jupyterlab tutorial series:
     * [Part 1](https://github.com/C-Accel-CRIPT/cript_tutorials/blob/master/jupyterlab_tutorials/Part_1_CRIPT_tutorial.ipynb)
     * [Part 2](https://github.com/C-Accel-CRIPT/cript_tutorials/blob/master/jupyterlab_tutorials/Part_2_CRIPT_tutorial.ipynb)
