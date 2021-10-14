@@ -20,7 +20,8 @@ This repository holds a lot of helpful information for those learning CRIPT API.
 
 (If you just like to explore the completed tutorials check out this [folder](https://github.com/C-Accel-CRIPT/cript_tutorials/tree/master/jupyterlab_tutorials/completed).)
 
-
+<div class="alert alert-block alert-info">
+<b>Tip:</b> Use blue boxes (alert-info) for tips and notes.</div>
 
 ---
 
