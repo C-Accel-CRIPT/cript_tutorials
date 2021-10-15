@@ -47,3 +47,14 @@ This repository holds a lot of helpful information for those learning CRIPT API.
 * [Quantity Keys](http://htmlpreview.github.io/?https://github.com/C-Accel-CRIPT/cript_tutorials/blob/master/key_tables/quantity_keys.html)
 * [Ingredient Keys](http://htmlpreview.github.io/?https://github.com/C-Accel-CRIPT/cript_tutorials/blob/master/key_tables/ingredient_keys.html)
 * [Process Keys](http://htmlpreview.github.io/?https://github.com/C-Accel-CRIPT/cript_tutorials/blob/master/key_tables/process_keys.html)
+
+
+
+---
+
+## How to update CRIPT to the new version:
+
+1) opening up Anaconda
+2) then open terminal from Anaconda
+3) type `pip uninstall cript`, then confirm yes `y`
+4) type `pip install --user C:/######/cript-0.0.2.tar.gz` (change file location and cript version)
