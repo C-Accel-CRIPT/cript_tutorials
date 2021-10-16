@@ -17,14 +17,13 @@ This repository holds a lot of helpful information for those learning CRIPT API.
     can execute the python code directly in the tutorial document**. This will hopeful leading to a more 
     enjoyable and effective learn process than just reading a static document.
    
-    <u>To start the tutorials follow these steps:</u>
+    To start the tutorials follow these steps:
     1) Download tutorials (see below for download instructions)
-    2) Open 'Anaconda Navigator'
-    3) Launch JupyterLab
-    4) Open [“Part_1_CRIPT_tutorial.ipynb”](https://github.com/C-Accel-CRIPT/cript_tutorials/blob/master/jupyterlab_tutorials/Part_1_CRIPT_tutorial.ipynb)
+    2) Open JupyterLab (Open 'Anaconda Navigator', Launch JupyterLab)
+    3) Open [“Part_1_CRIPT_tutorial.ipynb”](https://github.com/C-Accel-CRIPT/cript_tutorials/blob/master/jupyterlab_tutorials/Part_1_CRIPT_tutorial.ipynb)
     in JupyterLab. 
    
-    <u>Tutorial series:</u>
+    Tutorial series:
     * [Part 1](https://github.com/C-Accel-CRIPT/cript_tutorials/blob/master/jupyterlab_tutorials/Part_1_CRIPT_tutorial.ipynb)
     * [Part 2](https://github.com/C-Accel-CRIPT/cript_tutorials/blob/master/jupyterlab_tutorials/Part_2_CRIPT_tutorial.ipynb)
 
@@ -37,7 +36,7 @@ This repository holds a lot of helpful information for those learning CRIPT API.
 (Notes: JupyterNotebooks/JupyterLab only partially render on GitHub, and will look different when opened in JupyterLab)
 (If you just like to explore the completed tutorials check out this [folder](https://github.com/C-Accel-CRIPT/cript_tutorials/tree/master/jupyterlab_tutorials/completed).)
 
-<u>**Downloading Files from GitHub**</u>
+**Downloading Files from GitHub**
 * Option 1: Download all tutorial files
     * To do this: be on the [repository main page](https://github.com/C-Accel-CRIPT/cript_tutorials)
       (likely the one you are already on). Click the green button labeled "Code", then click "download ZIP". You 
@@ -46,6 +45,16 @@ This repository holds a lot of helpful information for those learning CRIPT API.
 * Option 2: Download single files
     * Navigate to the file you like to download in the repository, click "Raw" at the header of the file. This will 
       send you to the webpage of the raw file, then save this page (on Windows: Ctrl+S; or right click "Save as...").
+
+---
+
+## How to update CRIPT to the new version:
+
+1) opening up Anaconda
+2) then open terminal from Anaconda
+3) type `pip uninstall cript`, then confirm yes `y`
+4) type `pip install --user C:/######/cript-0.0.2.tar.gz` (change file location and cript version)
+
 
 ---
 
@@ -64,13 +73,3 @@ This repository holds a lot of helpful information for those learning CRIPT API.
 * [Ingredient Keys](http://htmlpreview.github.io/?https://github.com/C-Accel-CRIPT/cript_tutorials/blob/master/key_tables/ingredient_keys.html)
 * [Process Keys](http://htmlpreview.github.io/?https://github.com/C-Accel-CRIPT/cript_tutorials/blob/master/key_tables/process_keys.html)
 
-
-
----
-
-## How to update CRIPT to the new version:
-
-1) opening up Anaconda
-2) then open terminal from Anaconda
-3) type `pip uninstall cript`, then confirm yes `y`
-4) type `pip install --user C:/######/cript-0.0.2.tar.gz` (change file location and cript version)
