@@ -13,18 +13,18 @@ This repository holds a lot of helpful information for those learning CRIPT API.
     
 2) **Tutorial series in JupyterLab:**
    
-The tutorials are written in JupyterLab because it is an **interactive** environment. This means **you 
-can execute the python code directly in the tutorial document**. This will hopeful leading to a more 
-enjoyable and effective learn process than just reading a static document.
+    The tutorials are written in JupyterLab because it is an **interactive** environment. This means **you 
+    can execute the python code directly in the tutorial document**. This will hopeful leading to a more 
+    enjoyable and effective learn process than just reading a static document.
    
-    To start the tutorials follow these steps:
+    <u>To start the tutorials follow these steps:</u>
     1) Download tutorials (see below for download instructions)
     2) Open 'Anaconda Navigator'
     3) Launch JupyterLab
     4) Open [“Part_1_CRIPT_tutorial.ipynb”](https://github.com/C-Accel-CRIPT/cript_tutorials/blob/master/jupyterlab_tutorials/Part_1_CRIPT_tutorial.ipynb)
     in JupyterLab. 
    
-    Tutorial series:
+    <u>Tutorial series:</u>
     * [Part 1](https://github.com/C-Accel-CRIPT/cript_tutorials/blob/master/jupyterlab_tutorials/Part_1_CRIPT_tutorial.ipynb)
     * [Part 2](https://github.com/C-Accel-CRIPT/cript_tutorials/blob/master/jupyterlab_tutorials/Part_2_CRIPT_tutorial.ipynb)
 
