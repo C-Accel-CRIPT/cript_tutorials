@@ -5,7 +5,7 @@ how to install CRIPT API, that will be covered in the first tutorial.</span>
 
 CRIPT requires Python (>=3.9), and the tutorials for CRIPT are writing in JupyterNotebooks/JupyterLab. If you already
 have Python (>=3.9) and JupyterNotebooks/JupyterLab, you can skip this and move directly onto the JupyterNotebook
-tutorials. Start with the tutorial labeled: [“Part_1_CRIPT_tutorial.ipynb”]()
+tutorials. 
 
 ## Contents
 
@@ -47,11 +47,17 @@ To installation visit on of Anaconda guide:
 
 **Important checks:**
 
-Double check is that you have python 3.9 or greater installed and it is select in Anaconda interface prior to launching
-JupyerLab.
+As of (10/16/21) Anaconda comes with python 3.8; we will need to upgrade it to python 3.9 or greater.
+1) Open 'Anaconda Navigator'
+2) Launch 'Anaconda Prompt' (terminal) 
+3) Run the following code in the 'Anaconda Prompt': `conda create --name py39 python=3.9`
+4) Close and reopen Anaconda
 
-Once finished: open JupyterLab and then load [“Part_1_CRIPT_tutorial.ipynb”]()
 
+Your computer should now be ready to continue on to the tutorials. Return the 
+[main page](https://github.com/C-Accel-CRIPT/cript_tutorials) to see the next steps.
+
+   
 
 ---
 
@@ -73,7 +79,8 @@ configured. So you have three options:
    * You may run into issues if you did not configure your python installation in the most preferred manner. If you
    have any issues, Stackoverflow is always a good place to start for help.
 
-Once finished: open JupyterLab and then load [“Part_1_CRIPT_tutorial.ipynb”]()
+Your computer should now be ready to continue on to the tutorials. Return the 
+[main page](https://github.com/C-Accel-CRIPT/cript_tutorials) to see the next steps.
 
 ### Experienced Coder:
 
@@ -89,4 +96,5 @@ Bonus: If you are looking for an IDE for python, we recommend PyCharm Community
 Edition (https://www.jetbrains.com/pycharm/ ). Its one of the heftier IDEs for python, but those extra features do come
 in handy if you are doing a lot of python programing. 
 
-Once finished: open JupyterLab and then load [“Part_1_CRIPT_tutorial.ipynb”]()
+Your computer should now be ready to continue on to the tutorials. Return the 
+[main page](https://github.com/C-Accel-CRIPT/cript_tutorials) to see the next steps.

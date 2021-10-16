@@ -10,12 +10,27 @@ This repository holds a lot of helpful information for those learning CRIPT API.
 
 1) Get your computer setup with Python and JupyterNotebooks/JupyterLab
     * [Click for instructions](https://github.com/C-Accel-CRIPT/cript_tutorials/blob/master/Setup_Guide.md)
-2) Do the main jupyterlab tutorial series:
+    
+2) Tutorial series in JupyterLab:
+   The tutorials are written in JupyterLab because it is an **interactive** environment. This means **you 
+   can execute the python code directly in the tutorial document**. This will hopeful leading to a more 
+   enjoyable and effective learn process than just reading a static document.
+   
+    To start the tutorials follow these steps:
+    1) Download tutorials (see below for download instructions)
+    2) Open 'Anaconda Navigator'
+    3) Launch JupyterLab
+    4) Open [“Part_1_CRIPT_tutorial.ipynb”](https://github.com/C-Accel-CRIPT/cript_tutorials/blob/master/jupyterlab_tutorials/Part_1_CRIPT_tutorial.ipynb)
+    in JupyterLab. 
+   
+    Tutorial series
     * [Part 1](https://github.com/C-Accel-CRIPT/cript_tutorials/blob/master/jupyterlab_tutorials/Part_1_CRIPT_tutorial.ipynb)
     * [Part 2](https://github.com/C-Accel-CRIPT/cript_tutorials/blob/master/jupyterlab_tutorials/Part_2_CRIPT_tutorial.ipynb)
+
 3) Explore additional supporting tutorials:
     * [Exporting data](https://github.com/C-Accel-CRIPT/cript_tutorials/blob/master/jupyterlab_tutorials/Exporting.ipynb)
     * [Advanced searching](https://github.com/C-Accel-CRIPT/cript_tutorials/blob/master/jupyterlab_tutorials/Advanced_searching.ipynb)
+
 4) Add your own data
 
 (Notes: JupyterNotebooks/JupyterLab only partially render on GitHub, and will look different when opened in JupyterLab)
